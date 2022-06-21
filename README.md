@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL : [Solution]()
-- Live Site URL : [Live Site]()
+- Solution URL : [Solution](https://github.com/Senuka072/-Profile-card-component-solution.git)
+- Live Site URL : [Live Site](https://profile-card-component-senuka.netlify.app/)
 
 ## My process
 
