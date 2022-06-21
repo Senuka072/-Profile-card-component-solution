@@ -41,5 +41,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Frontend Mentor - [@Senuka072](https://www.frontendmentor.io/profile/Senuka072)
 - GitHub - [@Senuka072](https://github.com/Senuka072)
-- Twitter - []()
+- Twitter - [@Senuka072](https://twitter.com/SenukaThisath)
 
